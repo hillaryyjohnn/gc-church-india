@@ -14,7 +14,7 @@ function Navbar() {
         <Link to="/" className="logo" onClick={closeMenu}>
           <img src="/logo/logo.png" alt="GC Church India Logo" className="logo-img" />
           <div>
-            <h2>GC Church India</h2>
+            <h2>G.C. CHURCH INDIA</h2>
             <span>Gospel • Grace • Glory</span>
           </div>
         </Link>
