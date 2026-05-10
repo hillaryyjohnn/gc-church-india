@@ -37,9 +37,9 @@ function Footer() {
           <Link to="/">Home</Link>
           <Link to="/about">About</Link>
           <Link to="/gallery">Gallery</Link>
-          <Link to="/testimonies">Testimonies</Link>
-          <Link to="/crusades">Crusades</Link>
-          <Link to="/videos">Videos</Link>
+          {/* <Link to="/testimonies">Testimonies</Link> */}
+          {/* <Link to="/crusades">Crusades</Link> */}
+          {/* <Link to="/videos">Videos</Link> */}
           <Link to="/sow">Sow</Link>
           <Link to="/contact">Contact Us</Link>
         </div>
@@ -49,11 +49,11 @@ function Footer() {
           <h3>Contact</h3>
 
           <p>
-            <strong>Phone:</strong> +91 XXXXX XXXXX
+            <strong>Phone:</strong> +91 99696 67996, +91 93234 01587
           </p>
 
           <p>
-            <strong>WhatsApp:</strong> +91 XXXXX XXXXX
+            <strong>WhatsApp:</strong> +91 99696 67996
           </p>
 
           <p>
@@ -61,7 +61,7 @@ function Footer() {
           </p>
 
           <p>
-            <strong>Address:</strong> Chawl No. E/4, Room No.9, Ambedkar Nagar,
+            <strong>Address:</strong> Chawl No. E/4, Room No.9, <br /> Ambedkar Nagar,
             M.L. Camp, Mumbai - 19
           </p>
 

@@ -31,9 +31,9 @@ function Navbar() {
           <NavLink to="/" onClick={closeMenu}>Home</NavLink>
           <NavLink to="/about" onClick={closeMenu}>About</NavLink>
           <NavLink to="/gallery" onClick={closeMenu}>Gallery</NavLink>
-          <NavLink to="/testimonies" onClick={closeMenu}>Testimonies</NavLink>
-          <NavLink to="/crusades" onClick={closeMenu}>Crusades</NavLink>
-          <NavLink to="/videos" onClick={closeMenu}>Videos</NavLink>
+          {/* <NavLink to="/testimonies" onClick={closeMenu}>Testimonies</NavLink> */}
+          {/* <NavLink to="/crusades" onClick={closeMenu}>Crusades</NavLink> */}
+          {/* <NavLink to="/videos" onClick={closeMenu}>Videos</NavLink> */}
           <NavLink to="/contact" onClick={closeMenu}>Contact Us</NavLink>
           <NavLink to="/sow" onClick={closeMenu} className="sow-btn">
             Sow
