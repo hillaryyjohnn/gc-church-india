@@ -57,7 +57,7 @@ function Footer() {
           </p>
 
           <p>
-            <strong>Email:</strong> gcchurchindia@gmail.com
+            <strong>Email:</strong> guideofchristchurch.india@gmail.com
           </p>
 
           <p>
