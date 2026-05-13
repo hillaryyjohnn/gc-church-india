@@ -60,7 +60,7 @@ function About() {
       {/* Founder Section */}
       <div className="founder-section">
         <div className="founder-image">
-          <img src="/images/apostle-besto-1.jpeg" alt="Apostle D. Besto" />
+          <img src="/images/apostle-besto-abt.jpeg" alt="Apostle D. Besto" />
         </div>
 
         <div className="founder-content">
