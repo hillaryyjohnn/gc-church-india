@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 
 import Home from "./pages/Home";
 import About from "./pages/About";
-import Gallery from "./pages/Gallery";
+import Gallery from "./pages/Gallery/Gallery";
 import Testimonies from "./pages/Testimonies";
 import Crusades from "./pages/Crusades";
 import Videos from "./pages/Videos";
