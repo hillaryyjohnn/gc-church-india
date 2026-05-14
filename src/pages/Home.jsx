@@ -124,9 +124,9 @@ function Home() {
         </p>
 
         <div className="hero-buttons">
-          <Link to="/crusades" className="primary-btn">
+          {/* <Link to="/crusades" className="primary-btn">
             View Crusades
-          </Link>
+          </Link> */}  
 
           <Link to="/sow" className="secondary-btn">
             Sow Now
