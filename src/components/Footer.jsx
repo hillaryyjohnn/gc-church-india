@@ -66,9 +66,23 @@ function Footer() {
           </p>
 
           <div className="footer-social">
-            <a href="#" aria-label="YouTube">YouTube</a>
-            <a href="#" aria-label="Facebook">Facebook</a>
-            <a href="#" aria-label="Instagram">Instagram</a>
+            <a
+              href="https://www.youtube.com/@g.c.churchindia4772"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="YouTube"
+            >
+              YouTube
+            </a>
+
+            <a
+              href="https://www.facebook.com/besto.peeris"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Facebook"
+            >
+              Facebook
+            </a>
           </div>
         </div>
       </div>
