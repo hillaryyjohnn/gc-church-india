@@ -6,6 +6,7 @@ function Contact() {
       <div className="two-column">
         <div className="content-box">
           <h2>GC Church India</h2>
+          <br /><br />
           <p><strong>Phone:</strong> +91 99696 67996, +91 93234 01587</p>
           <p><strong>WhatsApp:</strong> +91 99696 67996</p>
           <p><strong>Email:</strong> guideofchristchurch.india@gmail.com</p>
@@ -13,7 +14,7 @@ function Contact() {
             M.L. Camp, Mumbai - 19</p>
         </div>
 
-        <div className="content-box">
+        {/* <div className="content-box">
           <h2>Send Prayer Request</h2>
 
           <form className="contact-form">
@@ -23,7 +24,7 @@ function Contact() {
             <textarea placeholder="Your Message / Prayer Request"></textarea>
             <button type="button">Submit</button>
           </form>
-        </div>
+        </div> */}
       </div>
     </section>
   );
