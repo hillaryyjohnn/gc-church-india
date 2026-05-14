@@ -128,13 +128,8 @@ function Gallery() {
       subtitle:
         "Moments of prayer, unity, and fellowship in Christ.",
       images: [
-       
         {
-          src: "/gallery/others/21.jpeg",
-          caption: "Church fellowship gathering",
-        },
-        {
-          src: "/gallery/others/22.jpeg",
+          src: "/gallery/others/28.jpeg",
           caption: "Church fellowship gathering",
         },
         {
@@ -142,7 +137,15 @@ function Gallery() {
           caption: "Church fellowship gathering",
         },
         {
-          src: "/gallery/others/28.jpeg",
+          src: "/gallery/others/20.jpeg",
+          caption: "Church fellowship gathering",
+        },
+        {
+          src: "/gallery/others/22.jpeg",
+          caption: "Church fellowship gathering",
+        },
+        {
+          src: "/gallery/others/21.jpeg",
           caption: "Church fellowship gathering",
         },
         
